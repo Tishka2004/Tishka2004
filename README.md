@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...the basics Git
-- 🌱 I’m currently learning ...Studying the Git!
+- 🔭 I’m currently working on ...the basics GitHub
+- 🌱 I’m currently learning ...Studying the GitHub
 - 👯 I’m looking to collaborate on ...with everyone!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
